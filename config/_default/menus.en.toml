@@ -1,0 +1,152 @@
+############# English navigation ##############
+
+# main menu
+
+[[main]]
+weight = 3
+name = "Industries"
+hasChildren = true
+
+[[main]]
+weight = 4
+name = "Services"
+hasChildren = true
+
+[[main]]
+weight = 5
+name = "VIP AI Chatbot"
+url = "vipaichatbot/"
+
+[[main]]
+name = "Company"
+url = "about/"
+weight = 6
+
+[[main]]
+parent = "Industries"
+name = "Fintech"
+url = "industries/fintech/"
+weight = 5
+
+[[main]]
+parent = "Industries"
+name = "Retail"
+url = "industries/retail/"
+weight = 10
+
+[[main]]
+parent = "Industries"
+name = "Marketing"
+url = "marketing/"
+weight = 15
+
+[[main]]
+parent = "Industries"
+name = "Packaging"
+url = "Packaging/"
+weight = 20
+
+[[main]]
+parent = "Industries"
+name = "Skin Care"
+url = "skincare/"
+weight = 25
+
+[[main]]
+parent = "Industries"
+name = "Real Estate"
+url = "realestate/"
+weight = 30
+
+[[main]]
+parent = "Services"
+name = "Artificial Intelligence"
+url = "services/ai/"
+weight = 3
+
+[[main]]
+parent = "Services"
+name = "Interim Chief AI Officer"
+url = "services/caio/"
+weight = 5
+
+[[main]]
+parent = "Services"
+name = "Fine-tuning"
+url = "services/fine-tuning/"
+weight = 10
+
+[[main]]
+parent = "Services"
+name = "Generative AI"
+url = "services/generative-ai/"
+weight = 15
+
+[[main]]
+parent = "Services"
+name = "LLM"
+url = "services/llm/"
+weight = 20
+
+[[main]]
+parent = "Services"
+name = "Machine Learning"
+url = "services/ml/"
+weight = 25
+
+[[main]]
+parent = "Services"
+name = "Data and Analytics"
+url = "services/data-analytics/"
+weight = 30
+
+[[main]]
+parent = "Services"
+name = "MLOps"
+url = "services/mlops/"
+weight = 40
+
+[[main]]
+parent = "Services"
+name = "Fraud detection"
+url = "services/fraud-detection/"
+weight = 50
+
+[[main]]
+parent = "Services"
+name = "AI Safety"
+url = "services/ai-safety/"
+weight = 60
+
+[[main]]
+parent = "Services"
+name = "Recommendation Systems"
+url = "services/recommendation-systems/"
+weight = 70
+
+[[main]]
+parent = "Services"
+name = "Computer Vision"
+url = "services/computer-vision/"
+weight = 80
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Elements"
+url = "elements/"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 5
+
+[[footer]]
+name = "Terms of Service"
+url = "terms/"
+weight = 10

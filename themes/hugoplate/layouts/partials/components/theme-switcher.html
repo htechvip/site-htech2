@@ -1,0 +1,34 @@
+<!-- theme switcher -->
+{{ $class := .Class }}
+{{ if site.Params.theme_switcher }}
+ 
+  <!-- theme switcher -->
+  {{ if site.Params.theme_switcher }}
+  <script>
+    var darkMode = {{if eq site.Params.theme_default "dark"}}true{{else}}false{{end}};
+
+    {{ if eq site.Params.theme_default "system" }}
+    if (window.matchMedia("(prefers-color-scheme: dark)").matches){darkMode = true}
+    {{ end }}
+
+    if (localStorage.getItem("theme") === "dark"){darkMode = true}
+    else if (localStorage.getItem("theme") === "light"){darkMode = false}
+    if (darkMode){document.documentElement.classList.toggle("dark")}
+    var themeSwitch = document.querySelectorAll("[data-theme-switcher]");
+
+    document.addEventListener("DOMContentLoaded", () => {
+      [].forEach.call(themeSwitch, function (ts) {
+        ts.checked = darkMode ? true : false;
+        ts.addEventListener("click", () => {
+          document.documentElement.classList.toggle("dark");
+          localStorage.setItem(
+            "theme",
+            document.documentElement.classList.contains("dark") ? "dark" : "light"
+          );
+        });
+      });
+    });
+  </script>
+  {{ end }}
+
+{{ end }}

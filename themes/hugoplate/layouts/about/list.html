@@ -1,0 +1,14 @@
+{{ define "main" }}
+<section class="section-sm" style="background-image: url('{{ .Params.image }}'); background-size: cover; background-position: center;">
+  <div class="container">
+    <div class="row justify-center">
+      <div class="md:col-10 lg:col-7 text-center">
+        <!-- Moved the image out, as it's now a background for the section -->
+        <h2 class="h3 mb-6">{{ .Title }}</h2>
+        <div class="content">{{ .Content }}</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

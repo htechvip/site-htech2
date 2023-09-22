@@ -1,0 +1,50 @@
+---
+# Banner
+banner:
+  title: "Supercharge Your WordPress Site with an AI Chatbot!"
+  content: "Introducing VIP AI CHATBOT: Where intelligence meets fun. Elevate user engagement and transform support like never before."
+  image: "/images/tiger.gif"
+  button:
+    enable: true
+    label: "Get Started For Free"
+    link: "https://github.com/zeon-studio/hugoplate"
+
+# Features
+features:
+  - title: "What's Included in VIP AI CHATBOT"
+    image: "/images/chatperson.png"
+    content: "The best AI-powered chatbot in the world. Here is why."
+    bulletpoints:
+      - "Content-Savvy! Our chatbot's got a knack for the content on your site. It's like it did its homework without you ever asking."
+      - "Not optimal enough? No problem! Seamlessly switch between various Large Language Models (LLM) to find the perfect vibe for your site."
+      - "Responsible & Ethical: We're not just smart; we're kind-hearted too (no racist, no sexist stuff). Our AI chatbot talks responsibly."
+    button:
+      enable: false
+      label: "Get Started Now"
+      link: "#"
+
+  - title: "Benefits That'll Make You Go 'Whoa!'"
+    image: "/images/chat2.svg"
+    content: "Ready for a more interactive, fun, and engaged website with AI? Some of the key features are:"
+    bulletpoints:
+      - "Engage-o-matic: Boost customer engagement with exciting, AI-fueled conversations. It's like adding a sprinkle of fun and tons of utility to every interaction!"
+      - "Customer Support? Nailed it! Seamless, intelligent, and always on point. No more 'Please hold' or 'Let me check'!"
+      - "Instant Know-it-All: Instant access to data means faster answers. Your site's very own superhero, always in the know!"
+      - "One-click install: Takes a second to install – all fine-tuned and ready to go! You don’t need a 747 cockpit dashboard to set things up here."
+    button:
+      enable: true
+      label: "Get Started Now"
+      link: "https://github.com/zeon-studio/hugoplate"
+
+  - title: "Need a hand increasing engagements?"
+    image: "/images/analytics3.png"
+    content: "VIP AI CHATBOT feeds your users with useful information that will increase conversion."
+    bulletpoints:
+      - "Hyper-Intuitive Conversations: The VIP AI CHATBOT doesn't just chat; it connects. By tapping into your content, it crafts conversations that resonate, ensuring your visitors always feel seen and heard."
+      - "Instant Answers, Happier Visitors: Say goodbye to users bouncing off due to unanswered questions. Our chatbot provides instantaneous responses, guiding them from curiosity to conversion."
+      - "Always-On Engagement Booster: Whether it's day or night, our AI-powered buddy is always up for a chat. Consistent, 24/7 engagement ensures your users are never left hanging and always a step closer to taking action."
+    button:
+      enable: false
+      label: ""
+      link: ""
+---
