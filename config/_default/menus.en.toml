@@ -37,25 +37,19 @@ weight = 10
 [[main]]
 parent = "Industries"
 name = "Marketing"
-url = "marketing/"
+url = "industries/marketing/"
 weight = 15
 
 [[main]]
 parent = "Industries"
-name = "Packaging"
-url = "Packaging/"
-weight = 20
-
-[[main]]
-parent = "Industries"
 name = "Skin Care"
-url = "skincare/"
+url = "industries/skincare/"
 weight = 25
 
 [[main]]
 parent = "Industries"
 name = "Real Estate"
-url = "realestate/"
+url = "industries/realestate/"
 weight = 30
 
 [[main]]
@@ -135,11 +129,6 @@ weight = 80
 name = "About"
 url = "about/"
 weight = 1
-
-[[footer]]
-name = "Elements"
-url = "elements/"
-weight = 2
 
 [[footer]]
 name = "Privacy Policy"
