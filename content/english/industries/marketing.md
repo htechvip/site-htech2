@@ -7,7 +7,7 @@ description: "Elevate your marketing game with our AI-powered solutions. Rapidly
 # save as draft
 draft: false
 ---
-
+{{< image src="images/marketing.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 ### Driving Marketing Innovation
 
 Reimagine your capabilities combining creativity and technology. Our experts help marketing leaders transform to deliver memorable customer experiences and measurable business growth.

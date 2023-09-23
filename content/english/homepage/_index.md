@@ -1,9 +1,9 @@
 ---
 # Banner
 banner:
-  title: "Reinvent your business with AI"
+  title: "Transform your business with AI"
   content: "To be an industry leader in five years, you need a clear and compelling strategy for artificial intelligence technologies today."
-  image: "/images/retrocity.png"
+  image: "/images/retrocity2.png"
   button:
     enable: false
     label: "Get Started For Free"
@@ -17,7 +17,7 @@ features:
     button:
       enable: true
       label: "READ NOW"
-      link: "#"
+      link: "insights/ai-chatbots-for-enhanced-customer-service-and-sales"
 
   - title: "Automated Design of Consumer Packaging Using Generative AI"
     image: "/images/packaging.png"

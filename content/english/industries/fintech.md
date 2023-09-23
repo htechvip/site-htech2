@@ -1,5 +1,5 @@
 ---
-title: "Navigating the Fintech Landscape with Expertise and Innovation"
+title: "Fintech"
 # meta title
 meta_title: "Navigating the Fintech Landscape with Expertise and Innovation"
 # meta description
@@ -7,6 +7,7 @@ description: "Partner with us to revolutionize the fintech space. Discover AI-dr
 # save as draft
 draft: false
 ---
+{{< image src="images/fintech.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 ### Consulting for the Future of Fintech
 Become an agile, insights-driven business leveraging emerging technologies. Our experts help fintech leaders reimagine and transform their organizations for long-term success.
 

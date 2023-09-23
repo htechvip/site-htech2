@@ -7,5 +7,5 @@ draft: false
 
 ### Talk to a bot: ai@htech.vip
 
-### Talk to a person: +1-626-413-4398
+### Talk to a person: [+1-626-413-4398](tel:+16264134398)
 
