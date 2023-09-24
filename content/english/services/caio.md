@@ -7,7 +7,7 @@ description: "Our Interim Chief AI Officer service offers expert AI leadership t
 # save as draft
 draft: false
 ---
-{{< image src="images/caio.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/caio.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 ### Unlock AI Innovation with Seasoned Leadership
 

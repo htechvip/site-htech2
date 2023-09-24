@@ -7,7 +7,7 @@ description: "Empower your retail enterprise with cutting-edge tech solutions. E
 # save as draft
 draft: false
 ---
-{{< image src="images/retail.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/retail.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 ### Innovating the Future of Retail
 
 Transform your stores and operations for the digital age. Our retail experts combine deep industry experience with leading edge technologies to help retailers thrive now and into the future.

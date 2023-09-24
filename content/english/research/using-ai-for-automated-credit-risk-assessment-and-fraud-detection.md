@@ -8,7 +8,7 @@ description: "Explore the profound impact of artificial intelligence on credit r
 draft: false
 ---
 
-{{< image src="images/finance2.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/finance2.webp" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 The American consumer debt stands at an astonishing $14 trillion, making precise credit risk assessment more critical than ever for lenders. Conventional portfolio analysis alone no longer suffices to comprehend the intricate factors that contribute to credit risk. Lenders must adopt a holistic approach, starting earlier in the customer lifecycle. Furthermore, in an era where seamless customer experience reigns supreme, the chosen solution must seamlessly integrate with existing offerings.
 

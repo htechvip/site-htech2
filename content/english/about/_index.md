@@ -6,7 +6,7 @@ draft: false
 ---
 
 
-{{< image src="images/about.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/about.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 ##### Advancing AI Collaboration for a Human-Centric Future
 

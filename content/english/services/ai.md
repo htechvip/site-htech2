@@ -7,7 +7,7 @@ description: "Discover how H TECH VIP is at the forefront of the AI revolution, 
 # save as draft
 draft: false
 ---
-{{< image src="images/ai.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/ai.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 ### Revolutionizing What's Achievable: The Impact of AI on Business
 

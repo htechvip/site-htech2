@@ -3,7 +3,7 @@
 banner:
   title: "Increase user engagement using AI on WordPress."
   content: "Introducing VIP AI CHATBOT: Where intelligence meets fun. Elevate user engagement and transform support like never before."
-  image: "/images/chatbot.png"
+  image: "/images/chatbot.webp"
   button:
     enable: true
     label: "Get Started For Free"
@@ -26,7 +26,7 @@ features:
       link: "https://github.com/htechvip/vip-ai-chatbot"
 
   - title: "What's Included in VIP AI CHATBOT"
-    image: "/images/chatperson.png"
+    image: "/images/chatperson.webp"
     content: "The best AI-powered chatbot in the world. Here is why."
     bulletpoints:
       - "Content-Savvy! Our chatbot's got a knack for the content on your site. It's like it did its homework without you ever asking."
@@ -40,7 +40,7 @@ features:
 
 
   - title: "Need a hand increasing engagements?"
-    image: "/images/analytics3.png"
+    image: "/images/analytics3.webp"
     content: "VIP AI CHATBOT feeds your users with useful information that will increase conversion."
     bulletpoints:
       - "Hyper-Intuitive Conversations: The VIP AI CHATBOT doesn't just chat; it connects. By tapping into your content, it crafts conversations that resonate, ensuring your visitors always feel seen and heard."

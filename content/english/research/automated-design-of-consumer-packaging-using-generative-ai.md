@@ -8,7 +8,7 @@ description: "Discover how VIP AI Chatbots from Olecea can transform your digita
 draft: false
 ---
 
-{{< image src="images/packaging.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/packaging.webp" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 The introduction of multiple generative AI platforms over the past year has ushered in a new era for packaging designers and manufacturers. These platforms are poised to revolutionize conceptualization, versioning, and operational resilience in the packaging industry, as discussed by speakers at the IME East conferences this month.
 

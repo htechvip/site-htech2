@@ -3,7 +3,7 @@
 banner:
   title: "Transform your business with AI"
   content: "To be an industry leader in five years, you need a clear and compelling strategy for artificial intelligence technologies today."
-  image: "/images/retrocity2.png"
+  image: "/images/retrocity2.webp"
   button:
     enable: false
     label: "Get Started For Free"
@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "AI Chatbots for Enhanced Customer Service and Sales"
-    image: "/images/dmarketing.png"
+    image: "/images/dmarketing.webp"
     content: "Digital marketing and Sales"
     button:
       enable: true
@@ -20,7 +20,7 @@ features:
       link: "research/ai-chatbots-for-enhanced-customer-service-and-sales"
 
   - title: "Automated Design of Consumer Packaging Using Generative AI"
-    image: "/images/packaging.png"
+    image: "/images/packaging.webp"
     content: "Consumer Packaging"
     button:
       enable: true
@@ -28,7 +28,7 @@ features:
       link: "research/automated-design-of-consumer-packaging-using-generative-ai"
 
   - title: "Using AI for Automated Credit Risk Assessment and Fraud Detection"
-    image: "/images/finance2.png"
+    image: "/images/finance2.webp"
     content: "Fintech"
     button:
       enable: true

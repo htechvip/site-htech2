@@ -7,7 +7,7 @@ description: "Discover how our skin care experts leverage AI, personalization, a
 # save as draft
 draft: false
 ---
-{{< image src="images/skincare.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/skincare.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 ### Innovating the Future of Skin Care
 
 Reimagine your products and processes leveraging leading-edge technologies. Our experts help skin care brands deliver memorable experiences and business growth.
