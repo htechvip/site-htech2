@@ -1,18 +1,18 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "/"
+baseURL = "https://www.htech.vip/"
 # Title of your website (required).
-title = "Hugoplate"
+title = "H TECH VIP | AI Consulting"
 # Your theme name
-theme = "hugoplate"
+theme = "htechvip-theme"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "America/New_York"
+timeZone = "America/Los_Angeles"
 # post pagination
 paginate = 2 # see https://gohugo.io/extras/pagination/
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
 # google analytics
-googleAnalytics = "G-MEASUREMENT_ID" # see https://gohugo.io/templates/internal/#configure-google-analytics
+googleAnalytics = "G-V7PS3NSSDK" # see https://gohugo.io/templates/internal/#configure-google-analytics
 # disqus short name
 disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
 # disable language

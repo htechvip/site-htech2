@@ -17,7 +17,7 @@ features:
     button:
       enable: true
       label: "READ NOW"
-      link: "insights/ai-chatbots-for-enhanced-customer-service-and-sales"
+      link: "research/ai-chatbots-for-enhanced-customer-service-and-sales"
 
   - title: "Automated Design of Consumer Packaging Using Generative AI"
     image: "/images/packaging.png"
@@ -25,7 +25,7 @@ features:
     button:
       enable: true
       label: "READ NOW"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "research/automated-design-of-consumer-packaging-using-generative-ai"
 
   - title: "Using AI for Automated Credit Risk Assessment and Fraud Detection"
     image: "/images/finance2.png"
@@ -33,5 +33,5 @@ features:
     button:
       enable: true
       label: "READ NOW"
-      link: ""
+      link: "research/using-ai-for-automated-credit-risk-assessment-and-fraud-detection"
 ---

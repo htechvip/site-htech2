@@ -7,8 +7,8 @@ description: "Discover how VIP AI Chatbots from Olecea can transform your digita
 # save as draft
 draft: false
 ---
-{{< image src="images/dmarketing.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
-### Enhancing Customer Experiences in the Digital Age
+
+{{< image src="images/dmarketing.png" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 In this AI and digital age, customer expectations have evolved. Customers increasingly expect instant gratification: personalized, accurate answers faster and easier than ever before. They don’t want to fill out a form to request a quote, send an email to get pricing information, or wait to get simple answers; they want real-time answers and action. While live agents have traditionally handled customer experiences, digital marketers are adapting to people’s current expectations while facing reduced marketing budgets. Marketing teams are embracing AI technology to drive more powerful marketing campaigns.
 
