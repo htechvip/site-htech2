@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Transform your business with AI"
+  title: "Dominate Your Industry with AI-Powered Innovation"
   content: "To be an industry leader in five years, you need a clear and compelling strategy for artificial intelligence technologies today."
   image: "/images/retrocity2.webp"
   button:

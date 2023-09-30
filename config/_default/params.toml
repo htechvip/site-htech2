@@ -53,10 +53,10 @@ show_categories = true
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-image = "images/og-image.png"
+keywords = ["AI consulting", "generative AI", "AI-powered fintech", "artificial intelligence solutions", "machine learning", "data analytics"]
+description = "H TECH VIP | Dominate Your Industry with AI-Powered Innovation"
+author = "H TECH VIP"
+image = "images/logohtechvip.png"
 
 
 # site verifications
