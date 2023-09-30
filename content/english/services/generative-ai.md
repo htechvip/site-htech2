@@ -1,6 +1,5 @@
-
 ---
-title: "generative-ai"
+title: "Generative AI"
 # meta title
 meta_title: "H TECH VIP Generative AI Services | Transforming Businesses with AI Innovation"
 # meta description
