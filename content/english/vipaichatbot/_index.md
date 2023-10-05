@@ -1,4 +1,5 @@
 ---
+image: "/images/chatbot.webp"
 # Banner
 banner:
   title: "Increase user engagement using AI on WordPress."
@@ -7,7 +8,11 @@ banner:
   button:
     enable: true
     label: "Get Started For Free"
-    link: "https://github.com/htechvip/vip-ai-chatbot"
+    link: "https://github.com/htechvip/vip-ai-chatbot/"
+  button2:
+    enable: true
+    label: "See Demo"
+    link: "https://wp2.htechvip.com"
 
 # Features
 features:
@@ -23,7 +28,7 @@ features:
     button:
       enable: true
       label: "Get Started For Free"
-      link: "https://github.com/htechvip/vip-ai-chatbot"
+      link: "https://github.com/htechvip/vip-ai-chatbot/"
 
   - title: "What's Included in VIP AI CHATBOT"
     image: "/images/chatperson.webp"
@@ -33,9 +38,9 @@ features:
       - "Not optimal enough? No problem! Seamlessly switch between various Large Language Models (LLM) to find the perfect vibe for your site."
       - "Responsible & Ethical: We're not just smart; we're kind-hearted too (no racist, no sexist stuff). Our AI chatbot talks responsibly."
     button:
-      enable: false
+      enable: true
       label: "Get Started Now"
-      link: "https://github.com/htechvip/vip-ai-chatbot"
+      link: "https://github.com/htechvip/vip-ai-chatbot/"
 
 
 
@@ -49,5 +54,5 @@ features:
     button:
       enable: true
       label: "Get Started For Free"
-      link: "https://github.com/htechvip/vip-ai-chatbot"
+      link: "https://github.com/htechvip/vip-ai-chatbot/"
 ---

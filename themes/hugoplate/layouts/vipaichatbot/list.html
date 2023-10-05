@@ -14,9 +14,16 @@
               </p>
               {{ with .button }}
                 {{ if .enable }}
-                  <a class="btn btn-primary" href="{{ .link | absURL }}">
+                  <a class="btn btn-primary" href="{{ .link | absURL }}" target="_blank">
                     {{ .label }}
                     <i class="fa fa-arrow-right pl-2"></i>
+                  </a>
+                {{ end }}
+              {{ end }}
+              {{ with .button2 }}
+                {{ if .enable }}
+                  <a class="btn btn-outline-primary" href="{{ .link | absURL }}" target="_blank">
+                    {{ .label }}
                   </a>
                 {{ end }}
               {{ end }}
@@ -61,7 +68,7 @@
               </ul>
               {{ with .button }}
                 {{ if .enable }}
-                  <a class="btn btn-primary mt-6" href="{{ .link | absURL }}">
+                  <a class="btn btn-primary mt-6" href="{{ .link | absURL }}" target="_blank">
                     {{ .label }}
                     <i class="fa fa-arrow-right pl-2"></i>
                   </a>
