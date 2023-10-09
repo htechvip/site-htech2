@@ -1,4 +1,5 @@
 ---
+image: "/images/logohtechvip.png"
 # Banner
 banner:
   title: "Dominate Your Industry with AI-Powered Innovation"
