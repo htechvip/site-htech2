@@ -24,6 +24,12 @@
 <!-- opengraph and twitter card -->
 {{ partial "basic-seo.html" . }}
 
+{{ if not .Params.image }}
+<meta itemprop="image" content="{{ site.Params.metadata.image | absURL }}" />
+<meta property="og:image" content="{{ site.Params.metadata.image | absURL }}" />
+<meta name="twitter:image" content="{{ site.Params.metadata.image | absURL }}" />
+<meta name="twitter:image:src" content="{{ site.Params.metadata.image | absURL }}" />
+{{ end }}
 
 <!-- custom script -->
 {{ partialCached "custom-script.html" . }}
