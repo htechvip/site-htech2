@@ -26,10 +26,10 @@
 
 {{ if not .Params.image }}
 {{ $image := resources.Get site.Params.metadata.image }}
-<meta itemprop="image" content="{{ site.Params.metadata.image | absURL }}" />
+<meta itemprop="image" content="{{ $image.RelPermalink | absURL }}" />
 <meta property="og:image" content="{{ $image.RelPermalink | absURL}}" />
-<meta name="twitter:image" content="{{ site.Params.metadata.image | absURL }}" />
-<meta name="twitter:image:src" content="{{ site.Params.metadata.image | absURL }}" />
+<meta name="twitter:image" content="{{ $image.RelPermalink | absURL }}" />
+<meta name="twitter:image:src" content="{{ $image.RelPermalink | absURL }}" />
 {{ end }}
 
 <!-- custom script -->
