@@ -6,6 +6,7 @@ meta_title: "Navigating the Fintech Landscape with Expertise and Innovation"
 description: "Partner with us to revolutionize the fintech space. Discover AI-driven strategies for lending, payment, and blockchain to redefine your fintech ventures."
 # save as draft
 draft: false
+image: "/images/fintech.webp"
 ---
 {{< image src="images/fintech.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 ### Consulting for the Future of Fintech
@@ -24,14 +25,14 @@ The results are increased automation, improved insights and the ability to say "
 
 #### Blockchain for Digital Trust
 
->We implemented a private blockchain network that reduced settlement times from days to minutes. The increased liquidity and transparency has been a huge win for us and our partners.
+> We implemented a private blockchain network that reduced settlement times from days to minutes. The increased liquidity and transparency has been a huge win for us and our partners.
 
 Blockchain's digital trust capabilities are creating excitement but many struggle to capture the benefits. Our experts specialize in blockchain strategy, assessment, design and deployment. We work with you to:
 
-> Identify use cases that deliver true business value, not just hype
-> Design and implement appropriate blockchain solutions integrating seamlessly with legacy systems
-> Manage change and train staff to leverage new capabilities and processes
-> Define governance and select optimal blockchain protocols and technologies
+- Identify use cases that deliver true business value, not just hype
+- Design and implement appropriate blockchain solutions integrating seamlessly with legacy systems
+- Manage change and train staff to leverage new capabilities and processes
+- Define governance and select optimal blockchain protocols and technologies
 
 The outcome is reduced settlement risk, improved liquidity, operational efficiencies, transparency and trust with ecosystem partners.
 
