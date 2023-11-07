@@ -12,6 +12,13 @@ banner:
 
 # Features
 features:
+  - title: "AI and Fintech: Leveraging Data and Artificial Intelligence for Innovation"
+    image: "/images/ai-fintech-sq.webp"
+    content: "AI and Fintech"
+    button:
+      enable: true
+      label: "READ NOW"
+      link: "research/ai-and-fintech-leveraging-data-and-artificial-intelligence-for-innovation"
   - title: "AI Chatbots for Enhanced Customer Service and Sales"
     image: "/images/dmarketing.webp"
     content: "Digital marketing and Sales"
