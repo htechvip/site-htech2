@@ -10,7 +10,7 @@ banner:
     label: "Get Started For Free"
     link: "https://github.com/htechvip/vip-ai-chatbot/"
   button2:
-    enable: true
+    enable: false
     label: "See Demo"
     link: "https://wp2.htechvip.com"
 
