@@ -12,6 +12,14 @@ banner:
 
 # Features
 features:
+  - title: "How data and AI-driven credit works for solopreneurs in emerging economies"
+    image: "/images/phone-shop-emerging.webp"
+    content: "AI and Fintech"
+    button:
+      enable: true
+      label: "Download NOW"
+      link: "research/loan-portfolio-risk-management-in-emerging-markets"
+
   - title: "AI and Fintech: Leveraging Data and Artificial Intelligence for Innovation"
     image: "/images/ai-fintech-sq.webp"
     content: "AI and Fintech"
