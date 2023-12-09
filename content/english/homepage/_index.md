@@ -17,7 +17,7 @@ features:
     content: "AI and Fintech"
     button:
       enable: true
-      label: "Download NOW"
+      label: "Expand"
       link: "research/loan-portfolio-risk-management-in-emerging-markets"
 
   - title: "AI and Fintech: Leveraging Data and Artificial Intelligence for Innovation"
