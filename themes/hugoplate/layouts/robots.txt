@@ -1,0 +1,9 @@
+plaintext
+User-agent: *
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /terms/
+Disallow: /privacy-policy/
+Disallow: /pages/
+Disallow: /homepage/
+Sitemap: https://www.htech.vip/sitemap.xml
