@@ -53,6 +53,12 @@ url = "industries/realestate/"
 weight = 30
 
 [[main]]
+parent = "Industries"
+name = "Medical Billing"
+url = "industries/medicalbilling/"
+weight = 35
+
+[[main]]
 parent = "Services"
 name = "Artificial Intelligence"
 url = "services/ai/"
