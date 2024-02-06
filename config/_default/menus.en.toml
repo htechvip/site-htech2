@@ -3,6 +3,11 @@
 # main menu
 
 [[main]]
+weight = 2
+name = "Speaking"
+url = "speaking/"
+
+[[main]]
 weight = 3
 name = "Industries"
 hasChildren = true

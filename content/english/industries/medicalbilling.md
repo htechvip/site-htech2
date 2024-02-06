@@ -43,7 +43,7 @@ In conclusion, the integration of AI in medical billing, specifically through RP
 
 ---
 
-#### Schedule an appointment so we can say bye to your headaches.
+# Schedule an appointment so we can say bye to your headaches.
 
 Let's explore how AI can transform your medical billing. 
 
