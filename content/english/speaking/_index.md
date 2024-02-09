@@ -50,9 +50,9 @@ Discover what Cho-Nan can bring to your event and experience the perfect blend o
 
 Cho-Nan's speaking ability merges practical wisdom with inspiring insights, making every word count for actionable takeaways. 
 
-### 2. Passion
+### 2. Influence
 
-Cho-Nan's speaking is fueled by an undeniable passion that ignites inspiration and leaves a lasting impact. Experience the power of passion in every word.
+Cho-Nan's initiates discussions, and his ideas will continue to be a topic of conversation for your audience or team long after the event concludes.
 
 ### 3. Insights
 
