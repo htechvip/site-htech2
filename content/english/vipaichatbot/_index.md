@@ -1,4 +1,8 @@
 ---
+title: "Transform Customer Interaction with Our Advanced AI Chatbot Solutions"
+meta_title: "AI Chatbot Solutions by H TECH VIP - Enhance Your Site Engagement"
+description: "Elevate your customer engagement with H TECH VIP's innovative AI chatbot solutions. Our state-of-the-art AI chatbots are designed to streamline interactions, providing quick, efficient, and personalized responses 24/7. Ideal for industries ranging from e-commerce to customer support, our AI chatbots are programmed to understand and adapt to your business needs, ensuring a seamless experience for your customers. With our expertise in AI, let us help you revolutionize your customer service, boost satisfaction, and drive business growth. Experience the future of customer interaction with H TECH VIP's AI chatbot solutions."
+
 image: "/images/chatbot.webp"
 # Banner
 banner:

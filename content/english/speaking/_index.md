@@ -4,7 +4,7 @@ title: "Cho-Nan Tsai: AI Expert and Inspirational Speaker for Corporate Events"
 meta_title: "Cho-Nan Tsai: AI Expert and Inspirational Speaker for Corporate Events"
 
 # meta description
-description: "Empower your business with advanced AI recommendation systems. Drive growth, improve customer experiences, and transform the way you engage."
+description: "Discover Cho-Nan Tsai, a renowned AI expert and motivational speaker, ideal for corporate events. Learn how Cho-Nan Tsai's deep understanding of artificial intelligence and its applications can inspire and educate your team. Perfect for keynotes, workshops, and panels, Tsai combines expertise in AI technology with engaging communication skills to transform complex concepts into accessible insights. Book Cho-Nan Tsai for an unforgettable learning experience that will empower and enlighten your corporate audience on the latest AI trends and innovations."
 # save as draft
 draft: false
 ---
