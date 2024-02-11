@@ -3,7 +3,7 @@ title: "AI Chatbots for Enhanced Customer Service and Sales"
 # meta title
 meta_title: "Revolutionize Digital Marketing with VIP AI Chatbots"
 # meta description
-description: "Discover how VIP AI Chatbots from Olecea can transform your digital marketing strategy. Enhance customer experiences, boost conversions, and streamline messaging for higher efficiency and customer satisfaction."
+description: "Discover how VIP AI Chatbots can transform your digital marketing strategy. Enhance customer experiences, boost conversions, and streamline messaging for higher efficiency and customer satisfaction."
 # save as draft
 draft: false
 ---

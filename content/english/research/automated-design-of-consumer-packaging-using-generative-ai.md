@@ -1,9 +1,9 @@
 ---
-title: "Automated Design of Consumer Packaging Using Generative AI"
+title: "Revolutionizing Packaging Design with Generative AI Automation"
 # meta title
-meta_title: "Revolutionize Digital Marketing with VIP AI Chatbots"
+meta_title: "Generative AI in Consumer Packaging Design - Innovative and Automated Solutions"
 # meta description
-description: "Discover how VIP AI Chatbots from Olecea can transform your digital marketing strategy. Enhance customer experiences, boost conversions, and streamline messaging for higher efficiency and customer satisfaction."
+description: "Discover the future of consumer packaging design with our cutting-edge Generative AI services. At [Your Company Name], we harness the power of artificial intelligence to automate and revolutionize the design process for consumer packaging. Our AI-driven approach offers innovative, efficient, and highly customizable packaging solutions that cater to the unique needs of your brand. Embrace the new era of creative design, where speed, precision, and creativity converge, ensuring your products stand out on the shelves. Learn how our generative AI capabilities can transform your packaging design strategy and elevate your brand's appeal."
 # save as draft
 draft: false
 ---
