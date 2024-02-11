@@ -1,5 +1,5 @@
 ---
-title: "Fraud Detection"
+title: "AI Safety"
 # meta title
 meta_title: "AI Safety for Businesses: Harnessing Intelligence Responsibly"
 
