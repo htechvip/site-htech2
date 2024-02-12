@@ -7,6 +7,7 @@ meta_title: "Cho-Nan Tsai: AI Expert and Inspirational Speaker for Corporate Eve
 description: "Discover Cho-Nan Tsai, a renowned AI expert and motivational speaker, ideal for corporate events. Learn how Cho-Nan Tsai's deep understanding of artificial intelligence and its applications can inspire and educate your team. Perfect for keynotes, workshops, and panels, Tsai combines expertise in AI technology with engaging communication skills to transform complex concepts into accessible insights. Book Cho-Nan Tsai for an unforgettable learning experience that will empower and enlighten your corporate audience on the latest AI trends and innovations."
 # save as draft
 draft: false
+date: 2024-01-10T05:00:00Z
 ---
 {{< gallery dir="images/speaking" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 

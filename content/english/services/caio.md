@@ -6,6 +6,7 @@ meta_title: "H TECH VIP: Interim Chief AI Officer Services"
 description: "Our Interim Chief AI Officer service offers expert AI leadership to guide your organization through the AI transformation journey. Discover how our experienced consultants can drive innovation and growth for your business."
 # save as draft
 draft: false
+date: 2023-09-10T05:00:00Z
 ---
 {{< image src="images/caio.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 

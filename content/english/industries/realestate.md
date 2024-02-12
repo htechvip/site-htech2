@@ -6,6 +6,7 @@ meta_title: "Real Estate Innovation: AI, Efficiency, and Client Experience Enhan
 description: "Discover how our real estate experts harness AI for efficiency, reimagine client experiences, and uncover market insights. Stay competitive in the ever-evolving real estate landscape with cutting-edge technology. Contact us to start your transformation today."
 # save as draft
 draft: false
+date: 2023-09-10T05:00:00Z
 ---
 {{< image src="images/realestate.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 ### Driving Innovation in Real Estate

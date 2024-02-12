@@ -6,6 +6,7 @@ meta_title: "How AI Revolutionizes Credit Risk Assessment and Fraud Detection in
 description: "Explore the profound impact of artificial intelligence on credit risk assessment and fraud detection in the financial industry. Discover how AI-driven insights enhance decision-making, predict delinquencies, and optimize collections for a seamless and efficient customer experience."
 # save as draft
 draft: false
+date: 2023-09-10T05:00:00Z
 ---
 
 {{< image src="images/finance2.webp" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}

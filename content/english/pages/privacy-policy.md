@@ -6,8 +6,9 @@ meta_title: "Privacy Policy"
 description: "Privacy Policy"
 # save as draft
 draft: false
+date: 2023-09-10T05:00:00Z
 ---
-Privacy Policy
+# Privacy Policy
 
 Effective Date: August 10, 2023
 

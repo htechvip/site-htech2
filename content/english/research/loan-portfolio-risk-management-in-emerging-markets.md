@@ -6,6 +6,7 @@ meta_title: "How data and AI-driven credit works for solopreneurs in emerging ec
 description: "Explore our detailed report on leveraging AI and Big Data for credit access in emerging economies. This comprehensive guide provides in-depth insights for lending professionals on how technological advancements are opening new opportunities for solopreneurs. Essential reading for those looking to innovate in the fintech space and drive financial inclusion in developing markets. Download now to stay ahead in the evolving world of credit lending."
 # save as draft
 draft: false
+date: 2023-09-10T05:00:00Z
 ---
 
 

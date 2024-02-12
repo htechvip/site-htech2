@@ -6,6 +6,7 @@ meta_title: "Generative AI in Consumer Packaging Design - Innovative and Automat
 description: "Discover the future of consumer packaging design with our cutting-edge Generative AI services. At [Your Company Name], we harness the power of artificial intelligence to automate and revolutionize the design process for consumer packaging. Our AI-driven approach offers innovative, efficient, and highly customizable packaging solutions that cater to the unique needs of your brand. Embrace the new era of creative design, where speed, precision, and creativity converge, ensuring your products stand out on the shelves. Learn how our generative AI capabilities can transform your packaging design strategy and elevate your brand's appeal."
 # save as draft
 draft: false
+date: 2023-09-10T05:00:00Z
 ---
 
 {{< image src="images/packaging.webp" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}

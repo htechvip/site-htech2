@@ -6,6 +6,7 @@ meta_title: "AI-Powered Fraud Detection for Modern Enterprises"
 # meta description
 description: "Harness the power of advanced AI for unparalleled fraud detection. Protect your business, reduce losses, and stay ahead of sophisticated fraudsters."
 # save as draft
+date: 2023-09-10T05:00:00Z
 draft: false
 ---
 

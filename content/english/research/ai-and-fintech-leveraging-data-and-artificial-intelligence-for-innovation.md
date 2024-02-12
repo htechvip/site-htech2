@@ -6,6 +6,7 @@ meta_title: "AI and Fintech: Unlocking Innovation with Data and Artificial Intel
 description: "Explore the synergy between AI and Fintech in our in-depth guide. Discover how the integration of data and artificial intelligence revolutionizes financial technology, driving innovation, efficiency, and enhanced user experiences."
 # save as draft
 draft: false
+date: 2023-09-10T05:00:00Z
 ---
 {{< image src="images/ai-fintech.webp" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
 

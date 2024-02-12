@@ -6,11 +6,12 @@ meta_title: "Terms of Service"
 description: "Terms of Service for VIP AI CHATBOT"
 # save as draft
 draft: false
+date: 2023-09-10T05:00:00Z
 ---
 
 
 
-## VIP AI CHATBOT Terms of Service Agreement
+# VIP AI CHATBOT Terms of Service Agreement
 
 This Terms of Service Agreement ("Agreement") is entered into by and between Hyperion Software LLC ("Company") and the user ("User" or "you") of the VIP AI CHATBOT ("Product"). By accessing or using the Product, you agree to be bound by the terms and conditions of this Agreement.
 

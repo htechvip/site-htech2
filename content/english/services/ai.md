@@ -6,6 +6,7 @@ meta_title: "H TECH VIP: Leading the AI Revolution for Business Success"
 description: "Discover how H TECH VIP is at the forefront of the AI revolution, transforming industries and empowering businesses. Our expert AI consulting services and solutions prepare you for sustainable growth, ensuring your organization capitalizes on data and AI's transformative potential. Join the AI-driven future with H TECH VIP."
 # save as draft
 draft: false
+date: 2023-09-10T05:00:00Z
 ---
 {{< image src="images/ai.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 

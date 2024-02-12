@@ -6,6 +6,7 @@ meta_title: "Innovative Marketing Solutions | Transforming Customer Experiences 
 description: "Elevate your marketing game with our AI-powered solutions. Rapidly ideate creative campaigns, deliver personalized real-time interactions, and unlock valuable customer insights. Transform your marketing for memorable experiences and measurable growth."
 # save as draft
 draft: false
+date: 2023-09-10T05:00:00Z
 ---
 {{< image src="images/marketing.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 ### Driving Marketing Innovation

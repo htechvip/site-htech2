@@ -6,6 +6,7 @@ meta_title: "Skin Care Innovation: AI, Personalization, and Data Science Solutio
 description: "Discover how our skin care experts leverage AI, personalization, and data science to optimize products, create personalized experiences, and drive growth. Transform your brand with cutting-edge technologies. Contact us to start your journey today."
 # save as draft
 draft: false
+date: 2023-09-10T05:00:00Z
 ---
 {{< image src="images/skincare.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 ### Innovating the Future of Skin Care

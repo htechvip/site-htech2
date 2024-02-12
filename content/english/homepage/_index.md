@@ -50,4 +50,6 @@ features:
       enable: true
       label: "READ NOW"
       link: "research/using-ai-for-automated-credit-risk-assessment-and-fraud-detection"
+
+date: 2023-09-10T05:00:00Z
 ---

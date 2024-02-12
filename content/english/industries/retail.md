@@ -6,6 +6,7 @@ meta_title: "Revolutionizing Retail: Next-Gen Tech Solutions for Tomorrow's Mark
 description: "Empower your retail enterprise with cutting-edge tech solutions. Explore AI's transformative potential in reshaping customer experiences, optimizing inventory, and driving growth."
 # save as draft
 draft: false
+date: 2023-09-10T05:00:00Z
 ---
 {{< image src="images/retail.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 ### Innovating the Future of Retail

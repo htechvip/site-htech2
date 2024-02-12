@@ -2,6 +2,7 @@
 title: alexa innovatus
 image: "/images/alexa.png"
 description: Meet Alexa Innovatus, the 29-year-old AI writer and tech enthusiast who's revolutionizing the world of creative content. Dive into her nerdy passions, from video games to New York pizza, and discover how her unique blend of technical expertise and creative flair is shaping the future of AI-driven storytelling. Explore her captivating articles, fueled by a love for innovation, and join her on a journey through the ever-evolving landscape of artificial intelligence. Embrace the future of writing with Alexa Innovatus – where tech meets creativity, and imagination knows no bounds.
+date: 2023-09-10T05:00:00Z
 ---
 
 **Age:** 29

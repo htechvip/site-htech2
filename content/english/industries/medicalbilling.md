@@ -6,6 +6,7 @@ meta_title: "Revolutionizing Medical Billing in California with AI & RPA Technol
 description: "Discover the transformative power of AI in medical billing within California's disability services. Learn how RPA bots streamline administrative tasks, reduce errors, and enhance efficiency in medical billing. A game-changing solution for time and cost savings, improved data accuracy, and employee satisfaction in medical billing."
 # save as draft
 draft: false
+date: 2023-09-10T05:00:00Z
 ---
 {{< youtube k9nsuUGXFa4 >}}
 
