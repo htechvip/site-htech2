@@ -6,6 +6,7 @@
     <li>
       <!-- Sharingbutton Facebook -->
       <a
+        OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;"
         class="bg-white w-9 h-9 rounded-md grid place-items-center"
         href="https://facebook.com/sharer/sharer.php?u={{ .Permalink }}"
         target="_blank"
@@ -20,6 +21,7 @@
     <li>
       <!-- Sharingbutton LinkedIn -->
       <a
+        OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;"
         class="bg-white w-9 h-9 rounded-md grid place-items-center"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ .Permalink }}&amp;title={{ .Title }}&amp;summary={{ .Params.description }}&amp;source={{ .Permalink }}"
         target="_blank"
@@ -34,6 +36,7 @@
     <li>
       <!-- Sharingbutton WhatsApp -->
       <a
+        OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;"
         class="bg-white w-9 h-9 rounded-md grid place-items-center"
         href="whatsapp://send?text={{ .Title }} {{ .Permalink }}"
         target="_blank"
@@ -48,6 +51,7 @@
     <li>
       <!-- Sharingbutton E-Mail -->
       <a
+        OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;"
         class="bg-white w-9 h-9 rounded-md grid place-items-center"
         href="mailto:?subject={{ .Title }}&amp;body={{ .Permalink }}"
         target="_self"
@@ -62,6 +66,7 @@
     <li>
       <!-- Sharingbutton Twitter -->
       <a
+        OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;"
         class="bg-white w-9 h-9 rounded-md grid place-items-center"
         href="https://twitter.com/intent/tweet/?text={{ .Title }}&amp;url={{ .Permalink }}"
         target="_blank"
@@ -81,6 +86,7 @@
     <li>
       <!-- Sharingbutton Pinterest -->
       <a
+        OnClick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false;"
         class="bg-white w-9 h-9 rounded-md grid place-items-center"
         href="https://pinterest.com/pin/create/button/?url={{ .Permalink }}&amp;media={{ .Permalink }}&amp;description={{ .Title }}"
         target="_blank"
