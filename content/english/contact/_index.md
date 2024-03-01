@@ -6,7 +6,7 @@ draft: false
 date: 2023-09-10T05:00:00Z
 ---
 
-### Talk to a bot: ai@htech.vip
+### Chat with us
 
-### Talk to a person: [+1-626-413-4398](tel:+16264134398)
+{{< button label="Get in touch" link="https://calendly.com/chonantsai/30min" style="solid" >}}
 
