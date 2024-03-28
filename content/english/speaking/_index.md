@@ -9,7 +9,7 @@ description: "Discover Cho-Nan Tsai, a renowned AI expert and motivational speak
 draft: false
 date: 2024-01-10T05:00:00Z
 ---
-{{< gallery dir="images/speaking" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< image src="images/speaking/sp3.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Cho-Nan AI talk flyer"  webp="false" >}}
 
 # Is your audience looking for guidance on how to level up using AI?
 
@@ -43,7 +43,7 @@ Cho-Nan Tsai isn’t just a speaker; he's a guide, a strategist, and an innovato
 
 ## What Cho-Nan delivers to your audience?
 
-{{< image src="images/ideas3.jpeg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Cho-Nan public speaking at IDEAS conference"  webp="false" >}}
+{{< image src="images/speaking/sp1.jpeg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Cho-Nan public speaking at IDEAS conference"  webp="false" >}}
 
 Discover what Cho-Nan can bring to your event and experience the perfect blend of practicality, awe-inspiring moments, and insightful perspectives.
 
